@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web applicarion.
 - 🤔 I’m looking for help with javascript.
 - 💬 Ask me about anything special statistical analisis.
-- 📫 How to reach me: [@TasnimMudesu](https://twitter.com/TasnimMudesu)
+- 📫 How to reach me: [@mudesir45188724](https://twitter.com/mudesir45188724)
 - 😄 Pronouns: .he/him.
 - ⚡ Fun fact: ...
 -->
