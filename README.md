@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-
+- I'm currently working as lab operator at infinera 
 - 🔭 I’m currently working on Community service.
 - 🌱 I’m currently learning data scince at lambda school.
 - 👯 I’m looking to collaborate on web applicarion.
